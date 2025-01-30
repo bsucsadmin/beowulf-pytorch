@@ -1,0 +1,4 @@
+Model: NVIDIA A2
+Avg time for CPU: 8.160805166512727
+Avg time for GPU: 0.09176977640017867
+GPU is 88.93 times faster than the CPU

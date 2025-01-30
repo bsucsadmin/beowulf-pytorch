@@ -1,0 +1,4 @@
+Model: NVIDIA L40
+Avg time for CPU: 9.366364821698516
+Avg time for GPU: 0.10321507565677165
+GPU is 90.75 times faster than the CPU
